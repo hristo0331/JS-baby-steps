@@ -1,0 +1,5 @@
+Calculate days left until next Christmas
+
+1) take current date
+2) subtraction 25.12 - curent date in days
+
