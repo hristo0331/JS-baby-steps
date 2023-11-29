@@ -1,0 +1,3 @@
+2. Use 10 people with their birthdays. Make a program that:
+ - takes a month as input and after that shows all birthdays in the current month
+ - takes the date and shows the birthdays for the current month after the date
